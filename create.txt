@@ -1,5 +1,5 @@
 list volume
-select volume 1
+select volume 0
 shrink desired=50
 create partition primary size=50
 format fs=fat32 label=$
