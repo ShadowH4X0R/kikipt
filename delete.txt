@@ -2,6 +2,6 @@ list volume
 select volume 4
 delete partition
 list volume
-select volume 1
+select volume 0
 extend
 exit
