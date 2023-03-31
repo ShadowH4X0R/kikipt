@@ -1,5 +1,5 @@
 list volume
-select volume 3
+select volume 1
 delete partition
 list volume
 select volume 0
