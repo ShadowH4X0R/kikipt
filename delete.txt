@@ -2,6 +2,6 @@ list volume
 select volume X
 delete partition
 list volume
-select volume 0
+select volume C
 extend
 exit
